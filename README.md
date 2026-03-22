@@ -1,2 +1,6 @@
-# guilherme-oliveira-22409537
-Projeto em Django para a cadeira Programação Web
+### Django Project PW
+
+- Nome: Guilherme Oliveira
+- número: 22409537
+- user: admin
+- password: admin
